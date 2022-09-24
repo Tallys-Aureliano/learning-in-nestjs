@@ -1,4 +1,4 @@
-GET https://localhost:3000/tweets
+GET http://localhost:3000/tweets
 
 ###
-POST https://localhost:3000/tweets
+POST http://localhost:3000/tweets
